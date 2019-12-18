@@ -1,0 +1,22 @@
+.btn{
+    background-color: green;
+    color:white;
+}
+.comp{
+    text-decoration: line-through;
+}
+.delete{
+    color:red;
+    cursor:pointer;
+    font-size: 20px;
+}
+.hidd{
+    display: none;
+}
+.high{
+    background: red;
+}
+.todo li{
+    cursor:pointer;
+    padding:10px;
+}
